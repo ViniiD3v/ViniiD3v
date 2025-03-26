@@ -12,7 +12,7 @@
   <img aligh="center" alt="css" src="https://img.shields.io/badge/CSS-20232A?&style=for-the-badge&logo=css3&logoColor=61DAFB" />
   <img aligh="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img aligh="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=A020F0" />
-  <img aligh="center" alt="Vite" src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=A020F0" />
+  <img aligh="center" alt="Tailwind" src="https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=bootstrap&logoColor=A020F0" />
 </div>
 
 ### Back-End
