@@ -6,7 +6,7 @@ Me chamo Vinicius Figueiredo, tenho 18 anos e sou natural de São Paulo. Conclu�
 
 ---
 
-###  Redes Sociais
+### 🌐 Redes Sociais
 <div>
     <a href="www.linkedin.com/in/viniid3v"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.instagram.com/vinii.zl/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
