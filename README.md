@@ -1,6 +1,6 @@
 # 👨‍💻 Vinicius Figueiredo
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front-End`**
 
 Me chamo Vinicius Figueiredo, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC Itaquera II, com o curso técnico em Edificações. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na .
 
