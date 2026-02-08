@@ -78,7 +78,7 @@ Os repositórios deste perfil representam **aprendizado contínuo e aplicação 
 
 Estou aberto a trocar ideias sobre **Fullstack, acessibilidade, produto e evolução profissional**.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/viniid3v)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniid3v)
 
 ---
 
