@@ -7,7 +7,7 @@
 
 Sou **Desenvolvedor Fullstack**, tenho 18 anos e sou natural de São Paulo. Desde cedo, sou apaixonado por tecnologia e sempre tive curiosidade em entender como sistemas, sites e aplicativos funcionam. Há dois anos iniciei meus estudos em programação e desde então venho me desenvolvendo como programador Fullstack, com foco em criação de interfaces, estruturação de sistemas e boas práticas de desenvolvimento.
 
-Sigo me aperfeiçoando a todo o ecossistema React, com o objetivo de evoluir constantemente como desenvolvedor e estar alinhado com as necessidades do mercado. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
+Sigo me aperfeiçoando a todo o ecossistema React, com o objetivo de evoluir constantemente como desenvolvedor e estar alinhado com as necessidades do mercado. Parte fundamental dessa minha evolução acontece na FIAP, onde curso Análise e Desenvolvimento de Sistemas. Lá, o foco em projetos práticos e desafios reais me ajuda a transformar a teoria em código de verdade, me preparando para lidar com problemas complexos e trabalhar de forma ágil em equipe.
 
 ---
 
@@ -76,12 +76,9 @@ Os repositórios deste perfil representam **aprendizado contínuo e aplicação 
 
 ## 🤝 Vamos conversar
 
-Estou aberto a trocar ideias sobre **Front-End, acessibilidade, produto e evolução profissional**.
+Estou aberto a trocar ideias sobre **Fullstack, acessibilidade, produto e evolução profissional**.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/viniid3v)
 
 ---
 
-<div align="center">
-  <img height="45" src="https://komarev.com/ghpvc/?username=ricardo-werner&color=blue" alt="Contador de visitantes" />
-</div>
