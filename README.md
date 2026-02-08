@@ -7,7 +7,7 @@
 
 Sou **Desenvolvedor Fullstack**, tenho 18 anos e sou natural de São Paulo. Desde cedo, sou apaixonado por tecnologia e sempre tive curiosidade em entender como sistemas, sites e aplicativos funcionam. Há dois anos iniciei meus estudos em programação e desde então venho me desenvolvendo como programador Fullstack, com foco em criação de interfaces, estruturação de sistemas e boas práticas de desenvolvimento.
 
-Sigo me aperfeiçoando a todo o ecossistema React, com o objetivo de evoluir constantemente como desenvolvedor e estar alinhado com as necessidades do mercado. Parte fundamental dessa minha evolução acontece na FIAP, onde curso Análise e Desenvolvimento de Sistemas. Lá, o foco em projetos práticos e desafios reais me ajuda a transformar a teoria em código de verdade, me preparando para lidar com problemas complexos e trabalhar de forma ágil em equipe.
+Sigo me aperfeiçoando a todo o ecossistema React, com o objetivo de evoluir constantemente como desenvolvedor e estar alinhado com as necessidades do mercado. Parte fundamental dessa minha evolução acontece na **FIAP**, onde curso **Análise e Desenvolvimento de Sistemas**. Lá, o foco em projetos práticos e desafios reais me ajuda a transformar a teoria em código de verdade, me preparando para lidar com problemas complexos e trabalhar de forma ágil em equipe.
 
 ---
 
