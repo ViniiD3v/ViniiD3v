@@ -25,13 +25,13 @@ Sigo me aperfeiçoando a todo o ecossistema React, com o objetivo de evoluir con
 
 ### 🧩 Backend / Full Stack
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-339933?style=for-the-badge&logo=javadotjs&logoColor=white)
 
 ---
 
 ### 🧮 Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
